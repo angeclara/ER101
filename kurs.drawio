@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T17:41:16.411Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="qmUGCDAgWGgFOWcis4Y8" version="23.1.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-04T17:45:26.681Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="mEtFMocqZgJClXMDYle9" version="23.1.6" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="954" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -252,7 +252,7 @@
         <mxCell id="zizeJc-UROGm9nQPSr3d-18" value="PROSJEKT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="350" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zizeJc-UROGm9nQPSr3d-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=ERoneToMany;startFill=0;" edge="1" parent="1" source="zizeJc-UROGm9nQPSr3d-16">
+        <mxCell id="zizeJc-UROGm9nQPSr3d-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=ERzeroToMany;startFill=0;" edge="1" parent="1" source="zizeJc-UROGm9nQPSr3d-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="500" as="sourcePoint" />
             <mxPoint x="410" y="390" as="targetPoint" />
